@@ -2,7 +2,7 @@
 
 Personal portfolio website showcasing my projects, experience and skills as an aspiring full-stack (MERN) developer.
 
-**Live:** https://your-site.vercel.app
+**Live:** https://warulkar-shlok.vercel.app/
 
 ## Highlights
 - Responsive layout for mobile, tablet and desktop
