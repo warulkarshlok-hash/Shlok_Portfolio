@@ -1,12 +1,19 @@
 # Shlok Warulkar — Portfolio
 
-React + Vite. All personal content lives in `src/config/siteConfig.js`.
+Personal portfolio website showcasing my projects, experience and skills as an aspiring full-stack (MERN) developer.
 
-```bash
+**Live:** https://your-site.vercel.app
+
+## Highlights
+- Responsive layout for mobile, tablet and desktop
+- Light and dark theme
+- Featured projects: Invoxa AI and Second Brain
+- Downloadable resume
+- All content kept in one config file (`src/config/siteConfig.js`)
+
+## Tech
+React, Vite, plain CSS. Deployed on Vercel.
+
+## Run locally
 npm install
-npm run dev      # local dev
-npm run build    # production build in dist/
-```
-
-Replace images in `public/images/`, the resume in `public/resume/`, and set `meta.siteUrl` in the config after deploying (needed for social-share previews).
-Deploys as a static site (Vercel / Netlify / GitHub Pages).
+npm run dev
